@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR5i0025/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5i0025/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀音大士蓮船經
+  date: '2015-08-29 17:49:13.395181'
+  source:
+    repository: kanripo
+    path: KR5i0025
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0025_001-CK-KZ-jye.yaml, hash: 'sha256:2a6dbee662ed3cd85ce40a7897e4b70dea7bd35ee30c5298dd3745cc6a1839aa'}
+  - {seq: 2, filename: KR5i0025_002-CK-KZ-jye.yaml, hash: 'sha256:7dff8e6f6620407e8d9ac37973f761a3586c904c6396f569c0852b842e95dd81'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0025_001-CK-KZ-jye.markers.yaml, hash: 'sha256:028ca6eb45073848f637faf3b3ea1431d349afa386e18165563070d5a8df417e'}
+  - {seq: 2, role: markers, filename: assets/KR5i0025_002-CK-KZ-jye.markers.yaml, hash: 'sha256:901f971e51395751626bbb8bfe5b8538e19d2ac1c6c23cd2055cb684675cdb74'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0025_01p001a
+    span:
+    - body
+    - 0
+    - 1543
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0025_02p001a
+    span:
+    - body
+    - 0
+    - 6029
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:ec58f48a12734856eb1623cac0daf578de8202258bc966c99b9bdf5a0841467a
