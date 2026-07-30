@@ -29,10 +29,10 @@ editions:
 assets:
   parts:
   - {seq: 1, filename: KR5i0025_001.yaml, hash: 'sha256:c4584f15ab5077cf53eee850c69c0e6aa527e6ced8911c5a3d83320eaa1cb757'}
-  - {seq: 2, filename: KR5i0025_002.yaml, hash: 'sha256:887ecf7999cdf96151bb1459183cfa5fb04350380687b28aed873de6efe587e6'}
+  - {seq: 2, filename: KR5i0025_002.yaml, hash: 'sha256:00f111bef2503635adacb1ff3fff3e37cc40e762d097e4a6a91a424a6f473583'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5i0025_001.markers.yaml, hash: 'sha256:43ff098556e441cd5a4d27ebd137031b743c5abd0eb05dcf1ef82e8a708e386d'}
-  - {seq: 2, role: markers, filename: assets/KR5i0025_002.markers.yaml, hash: 'sha256:d7762acc0caee50f31afc648a0f1f8431de4556d152d69324a4d759e1072d8bd'}
+  - {seq: 2, role: markers, filename: assets/KR5i0025_002.markers.yaml, hash: 'sha256:2bae73b3e6c25028bcfd05069a6da83ce4a5fea4f71b24d8c74eb56fa310bc4b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,12 +49,12 @@ table_of_contents:
     marker_id: CK-KZ_KR5i0025_02p001a
     span:
     - body
-    - 0
-    - 6029
+    - 2243
+    - 8272
   label: juan 002
   type: section
   level: 1
-hash: sha256:2b2580cc16b176db6112808f294e9388153975cb155ad829cadffea85f282feb
+hash: sha256:661cfc465e2ccb67d7064d0e5cf124272cd5d287d12a4277e3ed8f3e9f45bcb4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
